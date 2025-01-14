@@ -1,3 +1,3 @@
 # onkar-demo
 This is my first Git Repository.
-Auther- onkar pawar
+Author- onkar pawar
